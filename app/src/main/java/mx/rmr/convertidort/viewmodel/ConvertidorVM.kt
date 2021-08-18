@@ -4,7 +4,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import mx.rmr.convertidort.model.Convertidor
 
-// ViewModel
+// ViewModel 2
 class ConvertidorVM: ViewModel()
 {
     // Modelo
